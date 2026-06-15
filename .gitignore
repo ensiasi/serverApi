@@ -1,4 +1,13 @@
 bin/
 obj/
 publish/
+.vs/
 *.user
+*.userosscache
+*.suo
+*.cache
+*.log
+*.db
+*.pdb
+*.vscode/
+TestApi.csproj.nuget.*
